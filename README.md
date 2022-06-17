@@ -6,6 +6,6 @@ I am using -
 - Intellij IDEA
 
 ## Setup Steps
-- Configure your application in `application.properties`
+- Configure your application in : `application.properties`
 - Start MongoDB and Mongo Express containers using command : `docker-compose up -d` 
 - Run your Spring Boot application
